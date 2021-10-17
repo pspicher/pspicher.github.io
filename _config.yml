@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Paul Louis Victor Spicher"
 resume_title:                   "MSc Health Data Science"
 
