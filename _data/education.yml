@@ -1,13 +1,18 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: MSc Health Data Science
+  uni: London School of Economics
+  year: 2021 &mdash; Present
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: BA HSG, Major in Economics
+  uni: University of St. Gallen
+  year: 2017 - 2021
+  - Specilialisation in Data Analytics and Data Handling
+  - Societies: Data Science and Technology Club
+  
+- degree: Certificate in Data Science Fundamentals
+  uni: University of St. Gallen
+  year: 2018-2021
+
+- degree: Certificate in Applied Data Science - Machine Learning
+  uni: EPFL
+  year: July 2019 - February 2020
