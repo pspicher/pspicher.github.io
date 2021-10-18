@@ -4,16 +4,31 @@
   year: 2021 &mdash; Present
   description: Joint programme of the departments of Statistics and Health Policy designed to equip data scientists with statistical and computational methods specifically applicable to the healthcare, pharmaceutical and medical technology.
   awards:
-    - award: Societies &#58; Data Science, Energy
+    - award: Societies&#58; Data Science, Energy
 
 - degree: BA HSG, Major in Economics
   uni: University of St. Gallen
   year: 2017 &mdash; 2021
+  awards:
+    - award: 1st year (assessment)&#58; Management, Business law and Economics
+    - award: From 2d year&#58; Major in Economics with specialization in Data Analytics and Data Handling
+    - award: Societies&#58; Data Science and Technology Club
   
 - degree: Certificate in Data Science Fundamentals
   uni: University of St. Gallen
   year: 2018 &mdash; 2021
+  description: Certificate obtained in parallel with my undergraduate degree. Focus on decision maker’s perspective&#58;
+  awards:
+    - award: Ability to identify the potential of creating business and societal value out of data
+    - award: Ability to communicate and work with “technical” and legal experts in a proactive and solution-oriented manner
+    - award: Ability to explain the strengths or weaknesses of proposed solutions to those members of the management less well versed in technical matters
+    - award: Technical perspective&#58; Data handling and statistical modelling in R, application to a concrete business problem (see projects)
 
 - degree: Certificate in Applied Data Science - Machine Learning
   uni: EPFL
   year: July 2019 &mdash; February 2020
+  description: Certificate obtained in parallel with my undergraduate degree. Focus on technical perspective&#58;
+  awards:
+    - award: 15 ECTS in machine learning courses covering a wide range of classic models&#58; KNN, Logistic regression, SVM, Random forest, Fully connected neural network, Convnet, ect.
+    - award: Programming skills&#58; Data handling and analysis with python
+    - award: Application to a concrete problem in the field of image recognition (see projects)
