@@ -3,7 +3,7 @@
 - company: Réseau Hospitalier Neuchâtelois
   position: Analyst - Medical Office
   duration: June &mdash; August 2021
-  summary: Exploratory projet on Electronic Health Record and Medical Information System data.
+  description: Exploratory projet on Electronic Health Record and Medical Information System data.
   awards:
     - award: Review of state-of-the-art machine learning literature and identification of promising applications for the hospital
     - award: Implementation of two state-of-the-art supervised algorithms to concrete medical problems
