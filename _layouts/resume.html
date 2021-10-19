@@ -60,18 +60,19 @@
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ job.position }}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.company }} &bull; {{ job.duration }}</h4>
-          <p class="resume-item-copy">{{ job.summary }}</p>
-                      <ul class="resume-item-list">
-
-              {% for award in education.awards %}
-
+           <h5 class="resume-item-details award-title" itemprop="description">{{ job.award }}</h5>
+          <p class="resume-item-copy">{{ job.description }}</p>
+          <p class="resume-item-copy" itemprop="description">
+            <ul class="resume-item-list">
+              {% for award in job.awards %}
               <li>{{ award.award }}</li>
-
               {% endfor %}
-
             </ul>
-        </div><!-- end of resume-item -->
+
+          <p class="resume-item-copy">{{ education.summary }}</p>
+        </div>
         {% endfor %}
+
 
       </section>
       <!-- end Experience -->
