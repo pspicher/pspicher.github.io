@@ -3,7 +3,7 @@
 - company: Swiss Institute of Bioinformatics
   position: Project Associate
   duration: June 2022 &mdash; Present
-  description: Graph representation learning and RDF DB management on a drug dis- covery project.
+  description: Graph representation learning and RDF DB management on a drug discovery project.
   awards:
     - award: Designed graph representation learning models to predict different biological activities from a large graph of LC-MS/MS data and other information related to a set of plant extracts.
     - award: Implemented the algorithms as pipelines that are easy to use for both bioinformaticians and less computer literate scientists.
