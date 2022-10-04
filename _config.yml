@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Paul Louis Victor Spicher"
-resume_title:                   "Health Data Scientist \mid Grap Representation Learning"
+resume_title:                   "Health Data Scientist &#124; Graph Representation Learning"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "p.l.spicher@lse.ac.uk"
